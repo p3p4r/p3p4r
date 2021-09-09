@@ -1,4 +1,4 @@
-<img align="left" width="250" height="180" alt="John Peter" src="https://github.com/p3p4r/p3p4r/blob/main/assets/johnpeter_animation.gif"/>
+<img align="left" width="250" height="180" alt="John Peter" src="https://github.com/p3p4r/p3p4r/blob/master/assets/johnpeter_animation.gif"/>
 
 
  ### Hey 👋, I'm [João Silva](https://github.com/p3p4r)!
