@@ -19,7 +19,7 @@
 - 🌱 &nbsp;I’m currently learning more react;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/p3p4r)
 - 💬 &nbsp; Ask me about anything tech or desing related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on social network
+- 📫 &nbsp; Feel free to ping me on my social networks
   
  <br /> 
 
