@@ -6,13 +6,13 @@
    I am a versatilist and easily adapt Full Stack Web Developer 🌐 from Portugal. I have a taste for design 🎨 and for learning new things. I do also love creating innovative applications and if you want to discuss new ideas, contact me.
 
    <div> 
-    <a href="https://folio.fyke.pt/" target="_blank"><img src="https://img.shields.io/badge/Portefolio-ed4e4e?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a>
+    <a href="https://fyke.cc/" target="_blank"><img src="https://img.shields.io/badge/Portefolio-ed4e4e?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/joaosl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:pepar_jp33@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:pepar_jp33@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius:50%" ></a>
+    <a href="https://www.buymeacoffee.com/p3p4r"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
    </div>
-
+   
 ##
-  
 ### 🧐 I'm Currently
 
 - 📱 &nbsp; Building on a custom poster application integrated into ecommerce 
