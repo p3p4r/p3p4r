@@ -3,7 +3,7 @@
 
  ### Hey 👋, I'm [João Silva](https://github.com/p3p4r)!
 
-   I am a versatilist and easily adapt Full Stack Web Developer 🌐 from Portugal. I have a taste for design 🎨 and for learning new things. I do also love creating innovative applications and if you want to discuss new ideas, contact me.
+   I am a versatilist and easily adapt Software Engineer 🌐 from Portugal. I have a taste for design 🎨 and for learning new things. I do also love creating innovative applications and if you want to discuss new ideas, contact me.
 
    <div> 
     <a href="https://fyke.cc/" target="_blank"><img src="https://img.shields.io/badge/Portefolio-ed4e4e?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a>
