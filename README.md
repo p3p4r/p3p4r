@@ -6,7 +6,7 @@
    <div> 
     <a href="https://fyke.cc/" target="_blank"><img src="https://img.shields.io/badge/Portefolio-ed4e4e?style=for-the-badge&logo=appveyor&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joaosl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:pepar_jp33@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius:50%" ></a>
+    <a href = "mailto:joaoslv@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius:50%" ></a>
     <a href="https://www.buymeacoffee.com/p3p4r"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30px"></a>
    </div>
  
